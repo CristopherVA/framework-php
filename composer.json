@@ -1,0 +1,19 @@
+{
+    "name": "user/introduccion-framework-php",
+    "description": "Proyecto de Framework",
+    "authors": [
+        {
+            "name": "CristopherVA",
+            "email": "ing.valentin99@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    }
+}
