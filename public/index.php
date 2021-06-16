@@ -4,5 +4,3 @@
 
     $request = new App\Http\Request;
     $request->send();
-
-?>

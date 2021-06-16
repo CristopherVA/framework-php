@@ -8,8 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 </head>
 <body>
-    <div class="con tainer">
-
+    <div class="container">
         <div class="navbar navbar-expand-lg navbar-light bg-light mb-4"></div>
             <div class="container">
                 <a href="/" class="navbar-brand h1">FW</a>
